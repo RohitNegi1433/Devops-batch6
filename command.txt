@@ -1,0 +1,15 @@
+
+#This is the git coomand 
+
+git init
+git add
+git commit -m "m is for meesage "
+git push 
+git pull
+git log
+git log --online
+git merge
+git checkout -b  "b is for creating a new barnch"
+
+git remote -v
+
